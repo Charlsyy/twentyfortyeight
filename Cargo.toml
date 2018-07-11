@@ -1,0 +1,10 @@
+[package]
+name = "twentyfortyeight"
+version = "0.1.0"
+authors = ["Charly <charly.ahrendts@web.de>"]
+
+[dependencies]
+termion = "1"
+rand="0.3.14"
+colored="1.6"
+pancurses= "*"
